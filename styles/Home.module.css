@@ -114,3 +114,8 @@
     flex-direction: column;
   }
 }
+
+.textDiv {
+  min-height: 37px;
+  max-height: 37px;
+}
