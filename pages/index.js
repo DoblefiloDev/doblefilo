@@ -41,9 +41,7 @@ export default function Home() {
         <div className={styles.textDiv}>
           <h1 ref={typedElement}></h1>
         </div>
-        <span className={styles.logo}>
-          <Image src={doblefilo} alt="Doblefilo logo" height={700} width={700} />
-        </span>
+        <Image src={doblefilo} alt="Doblefilo logo" height={700} width={700} />
       </main>
     </div>
   );
