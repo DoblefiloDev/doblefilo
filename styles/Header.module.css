@@ -1,0 +1,28 @@
+.header {
+    backdrop-filter: blur(10px);
+    top: 0;
+    width: 100%;
+    position: fixed;
+    height: 80px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.ulDisplayHorizontally {
+  display: inline-block;
+  padding-left: 20;
+}
+
+.onlyInlineBlock {
+  display: inline-block;
+}
+
+.textPadding {
+    float: right;
+    padding-right: 15%;
+    padding-left: 50%;
+}
+
+.logo {
+    position: absolute;
+}

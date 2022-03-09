@@ -10,6 +10,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  color: white;
 }
 
 .footer {
@@ -116,6 +117,11 @@
 }
 
 .textDiv {
-  min-height: 37px;
-  max-height: 37px;
+  min-height: 64px;
+  max-height: 128px;
+}
+
+.mainText {
+  font-size: 64px;
+  font-weight: 700;
 }
