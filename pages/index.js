@@ -12,7 +12,7 @@ export default function Home() {
 
   useEffect(() => {
     const typed = new Typed(typedElement.current, {
-      strings: ["Working in Progress", "Coming Soon", "Doblefilo"],
+      strings: ["Work in Progress", "Coming Soon", "Doblefilo"],
       startDelay: 400,
       typeSpeed: 150,
       backSpeed: 100,
